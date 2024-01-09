@@ -13,9 +13,13 @@ Additionally, Apache handles HTTP requests and Apache Tomcat is used to host Jav
 
 ### system requirements
 OS: FreeBSD 13.2
+
 Hostname: ns7
+
 IP Address: 192.168.5.2
+
 Java version: openjdk17
+
 Tomcat version: tomcat9
 
 
@@ -23,5 +27,4 @@ Tomcat version: tomcat9
 ### Installation
 https://www.unixwinbsd.site/2023/09/installation-and-basic-setup-of-tomcat.html
 
-# FreeBSD_Tomcat
 # FreeBSD_Tomcat
