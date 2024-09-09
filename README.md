@@ -25,6 +25,6 @@ Tomcat version: tomcat9
 
 
 ### Installation
-https://www.unixwinbsd.site/2023/09/installation-and-basic-setup-of-tomcat.html
+https://inchimediatama-nusantara.blogspot.com/2023/09/installation-and-basic-setup-of-tomcat.html
 
 # FreeBSD_Tomcat
